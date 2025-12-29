@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ogfun.ogfun",
+      "sha256_cert_fingerprints": [
+        "D8:40:B0:27:0A:9F:DB:E8:45:79:2E:6B:07:9D:FC:BE:C8:6F:C1:4B:1F:52:14:55:9D:D1:AC:A2:A4:B9:F1:43"
+      ]
+    }
+  }
+]
